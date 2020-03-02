@@ -1,0 +1,367 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/for [
+
+# Última cadena de sustitución:
+$#3D7361
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1575141247,,"q"
+:w
+|2,0,1575141061,,"w"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/for [
+|2,1,1575141009,47,"for ["
+?/for
+|2,1,1575141002,47,"for"
+? #171C2E
+|2,1,1575139120,,"#171C2E"
+? #1A2036
+|2,1,1575139072,,"#1A2036"
+? #26a98b
+|2,1,1575139014,,"#26a98b"
+? #403d73
+|2,1,1575138884,,"#403d73"
+? #4c7b88
+|2,1,1575138847,,"#4c7b88"
+? #181D31
+|2,1,1575138676,,"#181D31"
+? #161A2A
+|2,1,1575138618,,"#161A2A"
+? #171A26
+|2,1,1575138600,,"#171A26"
+? #0C1639
+|2,1,1575138534,,"#0C1639"
+? #161E38
+|2,1,1575138496,,"#161E38"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	#1A2036
+	
+|3,0,0,0,2,0,1575138792,"#1A2036",""
+"1	LINE	0
+	client.focused 		$bg-color		$bg-color		$text-color		#6aa4ff
+|3,0,1,1,1,0,1575137543,"client.focused 		$bg-color		$bg-color		$text-color		#6aa4ff"
+"2	LINE	0
+	
+	
+|3,0,2,1,2,0,1575136792,"",""
+"3	LINE	0
+	map <A-S-r> :source ~/.vimrc<CR>
+	
+|3,0,3,1,2,0,1575136721,"map <A-S-r> :source ~/.vimrc<CR>",""
+"4	LINE	0
+	call plug#begin()
+	
+|3,0,4,1,2,0,1575136045,"call plug#begin()",""
+"5	LINE	0
+	call plug#begin()
+	
+|3,0,5,1,2,0,1575136032,"call plug#begin()",""
+"6	LINE	0
+	call plug#begin()
+	
+|3,0,6,1,2,0,1575136007,"call plug#begin()",""
+"7	LINE	0
+	
+	call plug#end()
+|3,0,7,1,2,0,1575135910,"","call plug#end()"
+"8	LINE	0
+	call plug#begin()
+	
+|3,0,8,1,2,0,1575135863,"call plug#begin()",""
+"9	LINE	0
+	
+	call plug#begin('~/.vim/plugged')
+|3,0,9,1,2,0,1575135596,"","call plug#begin('~/.vim/plugged')"
+""-	CHAR	0
+	2036
+|3,1,36,0,1,0,1575139064,"2036"
+
+# Marcas en el archivo:
+'0  5  0  ~/.vimrc
+|4,48,5,0,1575141530,"~/.vimrc"
+'1  10  0  ~/.Xresources
+|4,49,10,0,1575141247,"~/.Xresources"
+'2  222  46  ~/.config/i3/config
+|4,50,222,46,1575141223,"~/.config/i3/config"
+'3  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,51,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+'4  27  8  ~/.Xresources
+|4,52,27,8,1575139248,"~/.Xresources"
+'5  27  8  ~/.Xresources
+|4,53,27,8,1575139248,"~/.Xresources"
+'6  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,54,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+'7  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,55,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+'8  4  17  ~/.Xresources
+|4,56,4,17,1575139123,"~/.Xresources"
+'9  4  17  ~/.Xresources
+|4,57,4,17,1575139123,"~/.Xresources"
+
+# Lista de saltos (el más reciente va primero):
+-'  5  0  ~/.vimrc
+|4,39,5,0,1575141530,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575141252,"~/.vimrc"
+-'  10  0  ~/.Xresources
+|4,39,10,0,1575141247,"~/.Xresources"
+-'  10  0  ~/.Xresources
+|4,39,10,0,1575141247,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575141235,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575141235,"~/.Xresources"
+-'  222  46  ~/.config/i3/config
+|4,39,222,46,1575141223,"~/.config/i3/config"
+-'  222  46  ~/.config/i3/config
+|4,39,222,46,1575141223,"~/.config/i3/config"
+-'  222  46  ~/.config/i3/config
+|4,39,222,46,1575141223,"~/.config/i3/config"
+-'  222  46  ~/.config/i3/config
+|4,39,222,46,1575141223,"~/.config/i3/config"
+-'  10  50  ~/.config/i3/config
+|4,39,10,50,1575141012,"~/.config/i3/config"
+-'  10  50  ~/.config/i3/config
+|4,39,10,50,1575141012,"~/.config/i3/config"
+-'  10  50  ~/.config/i3/config
+|4,39,10,50,1575141012,"~/.config/i3/config"
+-'  10  50  ~/.config/i3/config
+|4,39,10,50,1575141012,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575141002,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575141002,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575141002,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575141002,"~/.config/i3/config"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  14  15  ~/Projects/Joel/Ejemplodx.c
+|4,39,14,15,1575139253,"~/Projects/Joel/Ejemplodx.c"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  27  8  ~/.Xresources
+|4,39,27,8,1575139248,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139160,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139160,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139160,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139160,"~/.Xresources"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139151,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139131,"~/Projects/Joel/Ejemplodx.c"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  4  17  ~/.Xresources
+|4,39,4,17,1575139123,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575139111,"~/.Xresources"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+-'  1  0  ~/Projects/Joel/Ejemplodx.c
+|4,39,1,0,1575139085,"~/Projects/Joel/Ejemplodx.c"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.vimrc
+	*	1575141261	0
+	"	5	0
+
+> ~/.Xresources
+	*	1575141246	0
+	"	10	0
+	.	4	0
+	+	4	0
+	+	8	16
+	+	32	0
+	+	33	0
+	+	16	0
+	+	4	0
+
+> ~/.config/i3/config
+	*	1575141088	0
+	"	222	46
+	^	222	58
+	.	222	57
+	+	220	0
+	+	221	43
+	+	213	0
+	+	211	82
+	+	210	75
+	+	210	0
+	+	209	51
+	+	211	83
+	+	222	57
+
+> ~/Projects/Joel/Ejemplodx.c
+	*	1575139243	0
+	"	14	15
+	.	14	0
+	+	14	57
+	+	14	59
+	+	14	0
+
+> ~/Projects/Scripts/USB/usbmount.sh
+	*	1575138942	0
+	"	12	0

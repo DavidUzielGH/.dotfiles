@@ -1,0 +1,532 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/Lección 3
+
+# Última cadena de sustitución:
+$#FF442B
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:source ~/.vimrc
+|2,0,1575156529,,"source ~/.vimrc"
+:q
+|2,0,1575156473,,"q"
+:w
+|2,0,1575156431,,"w"
+:q!
+|2,0,1575147213,,"q!"
+:PlugInstall
+|2,0,1575146274,,"PlugInstall"
+:Q
+|2,0,1575146215,,"Q"
+:PlugClean
+|2,0,1575143363,,"PlugClean"
+:compl-omni-filetypes
+|2,0,1575143118,,"compl-omni-filetypes"
+:help compl-omni
+|2,0,1575143078,,"help compl-omni"
+:set omnifunc=htmlcomplete#CompleteTags<PasteEnd>
+|2,0,1575142450,,"set omnifunc=htmlcomplete#CompleteTags<PasteEnd>"
+::set omnifunc=htmlcomplete#CompleteTags
+|2,0,1575142435,,":set omnifunc=htmlcomplete#CompleteTags"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/Lección 3
+|2,1,1575156561,47,"Lección 3"
+?/Lecciòn 3
+|2,1,1575156556,47,"Lecciòn 3"
+?/Leccion 3
+|2,1,1575156550,47,"Leccion 3"
+? #FF442B
+|2,1,1575156429,,"#FF442B"
+? #E00000
+|2,1,1575156425,,"#E00000"
+? #FF9B25
+|2,1,1575156407,,"#FF9B25"
+? #4F957E
+|2,1,1575156339,,"#4F957E"
+? #FFEDEC
+|2,1,1575156294,,"#FFEDEC"
+? #FF867E
+|2,1,1575156276,,"#FF867E"
+? #7EC0FF
+|2,1,1575156272,,"#7EC0FF"
+? #3051FF
+|2,1,1575156268,,"#3051FF"
+? #181B21
+|2,1,1575148152,,"#181B21"
+? #222630
+|2,1,1575148138,,"#222630"
+? #13161E
+|2,1,1575148110,,"#13161E"
+? #FFFFFF
+|2,1,1575146430,,"#FFFFFF"
+? #D3EBE9
+|2,1,1575146423,,"#D3EBE9"
+? #f53859
+|2,1,1575146151,,"#f53859"
+? #b94988
+|2,1,1575146139,,"#b94988"
+? #3F5085
+|2,1,1575144977,,"#3F5085"
+? #05E845
+|2,1,1575144973,,"#05E845"
+? #26A948
+|2,1,1575144919,,"#26A948"
+? #98d1ce
+|2,1,1575144811,,"#98d1ce"
+? #d3ebe9
+|2,1,1575144757,,"#d3ebe9"
+? #65B1FF
+|2,1,1575144662,,"#65B1FF"
+? #94FFBB
+|2,1,1575144658,,"#94FFBB"
+? #7EFFD4
+|2,1,1575144619,,"#7EFFD4"
+? #3D7361
+|2,1,1575144453,,"#3D7361"
+? #4C8862
+|2,1,1575144440,,"#4C8862"
+? #FF4848
+|2,1,1575144418,,"#FF4848"
+? #FF8248
+|2,1,1575144411,,"#FF8248"
+? #FF0000
+|2,1,1575144405,,"#FF0000"
+? #FF1515
+|2,1,1575144403,,"#FF1515"
+? #FF2929
+|2,1,1575144400,,"#FF2929"
+? #D7443A
+|2,1,1575144397,,"#D7443A"
+? #FF4C40
+|2,1,1575144390,,"#FF4C40"
+? #FF392B
+|2,1,1575144387,,"#FF392B"
+? #FC3325
+|2,1,1575144383,,"#FC3325"
+? #D53126
+|2,1,1575144380,,"#D53126"
+? #D5392E
+|2,1,1575144377,,"#D5392E"
+? #D52D21
+|2,1,1575144374,,"#D52D21"
+? #FF1000
+|2,1,1575144371,,"#FF1000"
+? #E51103
+|2,1,1575144366,,"#E51103"
+? #FF3E31
+|2,1,1575144363,,"#FF3E31"
+? #FC372A
+|2,1,1575144358,,"#FC372A"
+? #F83F33
+|2,1,1575144352,,"#F83F33"
+? #c33027
+|2,1,1575144346,,"#c33027"
+? #d26939
+|2,1,1575144340,,"#d26939"
+? #FF7825
+|2,1,1575144074,,"#FF7825"
+? #da641b
+|2,1,1575144016,,"#da641b"
+? #26A964
+|2,1,1575143896,,"#26A964"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+@y
+|2,3,1575143367,,"y"
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	#26A948
+	
+|3,0,0,0,2,0,1575147829,"#26A948",""
+"1	CHAR	0
+	#26A948
+	
+|3,0,1,0,2,0,1575144885,"#26A948",""
+"2	LINE	0
+	alias zshcnf="vim ~/.zshrc"
+|3,0,2,1,1,0,1575144542,"alias zshcnf=\"vim ~/.zshrc\""
+"-	CHAR	0
+	2
+|3,0,36,0,1,0,1575156356,"2"
+
+# Marcas en el archivo:
+'0  512  26  /tmp/tutor5R9xqm
+|4,48,512,26,1575156584,"/tmp/tutor5R9xqm"
+'1  17  0  ~/Projects/Web/Practice1/style.css
+|4,49,17,0,1575156473,"~/Projects/Web/Practice1/style.css"
+'2  1  0  ~/Projects/Web/Practice1/index.html
+|4,50,1,0,1575156458,"~/Projects/Web/Practice1/index.html"
+'3  1  0  ~/.Xresources
+|4,51,1,0,1575156439,"~/.Xresources"
+'4  12  21  ~/.Xresources
+|4,52,12,21,1575156431,"~/.Xresources"
+'5  12  21  ~/.Xresources
+|4,53,12,21,1575156431,"~/.Xresources"
+'6  33  20  ~/.Xresources
+|4,54,33,20,1575156342,"~/.Xresources"
+'7  33  20  ~/.Xresources
+|4,55,33,20,1575156342,"~/.Xresources"
+'8  33  20  ~/.Xresources
+|4,56,33,20,1575156342,"~/.Xresources"
+'9  33  20  ~/.Xresources
+|4,57,33,20,1575156342,"~/.Xresources"
+
+# Lista de saltos (el más reciente va primero):
+-'  512  26  /tmp/tutor5R9xqm
+|4,39,512,26,1575156584,"/tmp/tutor5R9xqm"
+-'  193  1  /tmp/tutor5R9xqm
+|4,39,193,1,1575156561,"/tmp/tutor5R9xqm"
+-'  1  0  /tmp/tutor5R9xqm
+|4,39,1,0,1575156515,"/tmp/tutor5R9xqm"
+-'  17  0  ~/Projects/Web/Practice1/style.css
+|4,39,17,0,1575156473,"~/Projects/Web/Practice1/style.css"
+-'  1  0  ~/Projects/Web/Practice1/style.css
+|4,39,1,0,1575156463,"~/Projects/Web/Practice1/style.css"
+-'  1  0  ~/Projects/Web/Practice1/index.html
+|4,39,1,0,1575156458,"~/Projects/Web/Practice1/index.html"
+-'  1  0  ~/Projects/Web/Practice1/index.html
+|4,39,1,0,1575156458,"~/Projects/Web/Practice1/index.html"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156439,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156439,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156439,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156439,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  12  21  ~/.Xresources
+|4,39,12,21,1575156431,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  24  21  ~/.Xresources
+|4,39,24,21,1575156407,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156346,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156346,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156346,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156346,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  33  20  ~/.Xresources
+|4,39,33,20,1575156342,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156323,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156323,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156323,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156323,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  37  16  ~/.Xresources
+|4,39,37,16,1575156297,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  38  0  ~/.Xresources
+|4,39,38,0,1575156286,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  36  18  ~/.Xresources
+|4,39,36,18,1575156268,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156158,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156158,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156158,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575156158,"~/.Xresources"
+-'  1  0  ~/ddr
+|4,39,1,0,1575156139,"~/ddr"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> /tmp/tutor5R9xqm
+	*	1575156583	0
+	"	512	26
+	^	2	0
+
+> ~/Projects/Web/Practice1/style.css
+	*	1575156472	0
+	"	17	0
+	.	25	0
+	+	27	0
+	+	25	0
+
+> ~/Projects/Web/Practice1/index.html
+	*	1575156454	0
+	"	1	0
+
+> ~/.Xresources
+	*	1575156435	0
+	"	1	0
+	^	61	0
+	.	12	0
+	+	21	0
+	+	16	16
+	+	16	0
+	+	24	0
+	+	13	0
+	+	12	0
+	+	13	0
+	+	32	0
+	+	33	0
+	+	32	0
+	+	36	0
+	+	37	0
+	+	3	0
+	+	5	0
+	+	16	16
+	+	16	14
+	+	17	0
+	+	29	0
+	+	28	0
+	+	37	0
+	+	36	0
+	+	54	21
+	+	55	18
+	+	62	20
+	+	56	19
+	+	60	0
+	+	57	0
+	+	61	0
+	+	62	0
+	+	60	0
+	+	59	0
+	+	4	0
+	+	62	0
+	+	61	0
+	+	36	0
+	+	37	0
+	+	33	0
+	+	24	0
+	+	12	0
+
+> ~/ddr
+	*	1575156136	0
+	"	1	0
+
+> ~/Projects/Web/Practice1/ControlP
+	*	1575147837	0
+	"	9	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/ControlP
+	*	1575147697	0
+	"	10	0
+	.	2	0
+	+	2	0
+
+> ~/fuckface
+	*	1575147441	0
+	"	1	0
+
+> ~/.vimrc
+	*	1575146277	0
+	"	12	14
+	^	7	15
+	.	7	14
+	+	12	27
+	+	22	16
+	+	23	18
+	+	24	35
+	+	12	0
+	+	4	10
+	+	2	9
+	+	4	10
+	+	5	9
+	+	12	20
+	+	14	0
+	+	7	14
+
+> ~/.zshrc
+	*	1575144598	0
+	"	103	6
+	^	103	7
+	.	103	6
+	+	116	0
+	+	102	10
+	+	103	6
+
+> ~/index.html
+	*	1575144038	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	6
+	+	1	12
+	+	1	6
+	+	1	5
+	+	2	0
+	+	1	6
+	+	1	9
+	+	2	0
+	+	1	6
+	+	2	0
+	+	3	7
+	+	4	0
+	+	1	6
+	+	3	6
+	+	3	2
+	+	2	0
+
+> ~/GIt/.Xresources
+	*	1575143993	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/insert.txt
+	*	1575143133	0
+	"	1021	16

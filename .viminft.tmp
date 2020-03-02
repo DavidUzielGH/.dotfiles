@@ -1,0 +1,521 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0/alias
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0~&laas
+
+# Última cadena de sustitución:
+$#161E38
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1575138448,,"q"
+:w
+|2,0,1575138446,,"w"
+:%s/laas/las/
+|2,0,1575138378,,"%s/laas/las/"
+:1
+|2,0,1575138369,,"1"
+:1s/laas/las
+|2,0,1575138346,,"1s/laas/las"
+:1s/laas/las/
+|2,0,1575138332,,"1s/laas/las/"
+:s/laas/las
+|2,0,1575138317,,"s/laas/las"
+:#s/laas/las/
+|2,0,1575138264,,"#s/laas/las/"
+:#s/laas/las
+|2,0,1575138258,,"#s/laas/las"
+:s/laas/las/
+|2,0,1575138205,,"s/laas/las/"
+:q!
+|2,0,1575137997,,"q!"
+:Q
+|2,0,1575137993,,"Q"
+:echo 'hai'
+|2,0,1575135458,,"echo 'hai'"
+:map
+|2,0,1575135950,,"map"
+:mao
+|2,0,1575135807,,"mao"
+:nmap g
+|2,0,1575135794,,"nmap g"
+:map!
+|2,0,1575077350,,"map!"
+:source ~/.vimrc
+|2,0,1575077019,,"source ~/.vimrc"
+:soure ~/.vimrc
+|2,0,1575077013,,"soure ~/.vimrc"
+:W
+|2,0,1575077097,,"W"
+:help map-which-keys
+|2,0,1575077060,,"help map-which-keys"
+:help map which-keys
+|2,0,1575076871,,"help map which-keys"
+:help mapping
+|2,0,1575076724,,"help mapping"
+:PlugInstall
+|2,0,1575076523,,"PlugInstall"
+:w!
+|2,0,1575074458,,"w!"
+:echo has('pytn') || has('pon3')
+|2,0,1575044895,,"echo has('pytn') || has('pon3')"
+:echo has('python') || has('pyth')
+|2,0,1575044889,,"echo has('python') || has('pyth')"
+:echo has('python') || has('python3')
+|2,0,1575044884,,"echo has('python') || has('python3')"
+:echo has('python')
+|2,0,1575044845,,"echo has('python')"
+:version
+|2,0,1575044595,,"version"
+:filetype detect
+|2,0,1575044535,,"filetype detect"
+:set number
+|2,0,1575044451,,"set number"
+:set filetype
+|2,0,1575043773,,"set filetype"
+:set filetype html
+|2,0,1575043764,,"set filetype html"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? #0a0f14
+|2,1,1575138441,,"#0a0f14"
+? laas
+|2,1,1575138378,,"laas"
+?/#s/laas/las
+|2,1,1575138231,47,"#s/laas/las"
+?/-G
+|2,1,1575138010,47,"-G"
+? #6aa4ff
+|2,1,1575137518,,"#6aa4ff"
+?/alias
+|2,1,1575075364,47,"alias"
+?/rule
+|2,1,1575074448,47,"rule"
+? @$
+|2,1,1575043508,,"@$"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	#FF6A6A
+	
+|3,0,0,0,2,0,1575137568,"#FF6A6A",""
+"1	LINE	0
+	     d) ¿Puedes aprenderla tu?
+|3,0,1,1,1,0,1575137763,"     d) ¿Puedes aprenderla tu?"
+"2	LINE	0
+	     a) Las rosas son rojas,
+|3,0,2,1,1,0,1575137752,"     a) Las rosas son rojas,"
+"3	LINE	0
+	     a) Las rosas son rojas,
+|3,0,3,1,1,0,1575137731,"     a) Las rosas son rojas,"
+"4	LINE	0
+	call plug#begin()
+	
+|3,0,4,1,2,0,1575136045,"call plug#begin()",""
+"5	LINE	0
+	call plug#begin()
+	
+|3,0,5,1,2,0,1575136032,"call plug#begin()",""
+"6	LINE	0
+	call plug#begin()
+	
+|3,0,6,1,2,0,1575136007,"call plug#begin()",""
+"7	LINE	0
+	
+	call plug#end()
+|3,0,7,1,2,0,1575135910,"","call plug#end()"
+"8	LINE	0
+	call plug#begin()
+	
+|3,0,8,1,2,0,1575135863,"call plug#begin()",""
+"9	LINE	0
+	
+	call plug#begin('~/.vim/plugged')
+|3,0,9,1,2,0,1575135596,"","call plug#begin('~/.vim/plugged')"
+"b	CHAR	0
+	
+|3,0,11,0,1,0,1575138243,""
+""-	CHAR	0
+	URxvt.meta8:		true
+|3,1,36,0,1,0,1575136925,"URxvt.meta8:		true"
+
+# Marcas en el archivo:
+'0  4  19  ~/.Xresources
+|4,48,4,19,1575138448,"~/.Xresources"
+'1  11  22  ~/.vimrc
+|4,49,11,22,1575138405,"~/.vimrc"
+'2  507  1  /tmp/tutorwFa7Ob
+|4,50,507,1,1575138391,"/tmp/tutorwFa7Ob"
+'3  377  104  /tmp/tutorR2votF
+|4,51,377,104,1575137997,"/tmp/tutorR2votF"
+'4  213  0  ~/.config/i3/config
+|4,52,213,0,1575137581,"~/.config/i3/config"
+'5  12  4  ~/.vimrc
+|4,53,12,4,1575137247,"~/.vimrc"
+'6  12  4  ~/.vimrc
+|4,54,12,4,1575137247,"~/.vimrc"
+'7  11  13  ~/.vimrc
+|4,55,11,13,1575137237,"~/.vimrc"
+'8  11  13  ~/.vimrc
+|4,56,11,13,1575137237,"~/.vimrc"
+'9  11  13  ~/.vimrc
+|4,57,11,13,1575137237,"~/.vimrc"
+
+# Lista de saltos (el más reciente va primero):
+-'  4  19  ~/.Xresources
+|4,39,4,19,1575138448,"~/.Xresources"
+-'  4  19  ~/.Xresources
+|4,39,4,19,1575138448,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575138411,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575138411,"~/.Xresources"
+-'  11  22  ~/.vimrc
+|4,39,11,22,1575138405,"~/.vimrc"
+-'  11  22  ~/.vimrc
+|4,39,11,22,1575138405,"~/.vimrc"
+-'  11  22  ~/.vimrc
+|4,39,11,22,1575138405,"~/.vimrc"
+-'  11  22  ~/.vimrc
+|4,39,11,22,1575138405,"~/.vimrc"
+-'  507  1  /tmp/tutorwFa7Ob
+|4,39,507,1,1575138391,"/tmp/tutorwFa7Ob"
+-'  507  1  /tmp/tutorwFa7Ob
+|4,39,507,1,1575138391,"/tmp/tutorwFa7Ob"
+-'  507  1  /tmp/tutorwFa7Ob
+|4,39,507,1,1575138391,"/tmp/tutorwFa7Ob"
+-'  507  1  /tmp/tutorwFa7Ob
+|4,39,507,1,1575138391,"/tmp/tutorwFa7Ob"
+-'  463  5  /tmp/tutorwFa7Ob
+|4,39,463,5,1575138378,"/tmp/tutorwFa7Ob"
+-'  463  5  /tmp/tutorwFa7Ob
+|4,39,463,5,1575138378,"/tmp/tutorwFa7Ob"
+-'  463  5  /tmp/tutorwFa7Ob
+|4,39,463,5,1575138378,"/tmp/tutorwFa7Ob"
+-'  463  5  /tmp/tutorwFa7Ob
+|4,39,463,5,1575138378,"/tmp/tutorwFa7Ob"
+-'  457  0  /tmp/tutorwFa7Ob
+|4,39,457,0,1575138171,"/tmp/tutorwFa7Ob"
+-'  457  0  /tmp/tutorwFa7Ob
+|4,39,457,0,1575138171,"/tmp/tutorwFa7Ob"
+-'  457  0  /tmp/tutorwFa7Ob
+|4,39,457,0,1575138171,"/tmp/tutorwFa7Ob"
+-'  457  0  /tmp/tutorwFa7Ob
+|4,39,457,0,1575138171,"/tmp/tutorwFa7Ob"
+-'  455  31  /tmp/tutorwFa7Ob
+|4,39,455,31,1575138165,"/tmp/tutorwFa7Ob"
+-'  455  31  /tmp/tutorwFa7Ob
+|4,39,455,31,1575138165,"/tmp/tutorwFa7Ob"
+-'  455  31  /tmp/tutorwFa7Ob
+|4,39,455,31,1575138165,"/tmp/tutorwFa7Ob"
+-'  455  31  /tmp/tutorwFa7Ob
+|4,39,455,31,1575138165,"/tmp/tutorwFa7Ob"
+-'  446  46  /tmp/tutorwFa7Ob
+|4,39,446,46,1575138145,"/tmp/tutorwFa7Ob"
+-'  446  46  /tmp/tutorwFa7Ob
+|4,39,446,46,1575138145,"/tmp/tutorwFa7Ob"
+-'  446  46  /tmp/tutorwFa7Ob
+|4,39,446,46,1575138145,"/tmp/tutorwFa7Ob"
+-'  446  46  /tmp/tutorwFa7Ob
+|4,39,446,46,1575138145,"/tmp/tutorwFa7Ob"
+-'  768  0  /tmp/tutorwFa7Ob
+|4,39,768,0,1575138091,"/tmp/tutorwFa7Ob"
+-'  768  0  /tmp/tutorwFa7Ob
+|4,39,768,0,1575138091,"/tmp/tutorwFa7Ob"
+-'  768  0  /tmp/tutorwFa7Ob
+|4,39,768,0,1575138091,"/tmp/tutorwFa7Ob"
+-'  768  0  /tmp/tutorwFa7Ob
+|4,39,768,0,1575138091,"/tmp/tutorwFa7Ob"
+-'  402  27  /tmp/tutorwFa7Ob
+|4,39,402,27,1575138087,"/tmp/tutorwFa7Ob"
+-'  402  27  /tmp/tutorwFa7Ob
+|4,39,402,27,1575138087,"/tmp/tutorwFa7Ob"
+-'  402  27  /tmp/tutorwFa7Ob
+|4,39,402,27,1575138087,"/tmp/tutorwFa7Ob"
+-'  402  27  /tmp/tutorwFa7Ob
+|4,39,402,27,1575138087,"/tmp/tutorwFa7Ob"
+-'  391  14  /tmp/tutorwFa7Ob
+|4,39,391,14,1575138012,"/tmp/tutorwFa7Ob"
+-'  391  14  /tmp/tutorwFa7Ob
+|4,39,391,14,1575138012,"/tmp/tutorwFa7Ob"
+-'  391  14  /tmp/tutorwFa7Ob
+|4,39,391,14,1575138012,"/tmp/tutorwFa7Ob"
+-'  391  14  /tmp/tutorwFa7Ob
+|4,39,391,14,1575138012,"/tmp/tutorwFa7Ob"
+-'  84  0  /tmp/tutorwFa7Ob
+|4,39,84,0,1575138010,"/tmp/tutorwFa7Ob"
+-'  84  0  /tmp/tutorwFa7Ob
+|4,39,84,0,1575138010,"/tmp/tutorwFa7Ob"
+-'  84  0  /tmp/tutorwFa7Ob
+|4,39,84,0,1575138010,"/tmp/tutorwFa7Ob"
+-'  84  0  /tmp/tutorwFa7Ob
+|4,39,84,0,1575138010,"/tmp/tutorwFa7Ob"
+-'  1  0  /tmp/tutorwFa7Ob
+|4,39,1,0,1575137999,"/tmp/tutorwFa7Ob"
+-'  1  0  /tmp/tutorwFa7Ob
+|4,39,1,0,1575137999,"/tmp/tutorwFa7Ob"
+-'  1  0  /tmp/tutorwFa7Ob
+|4,39,1,0,1575137999,"/tmp/tutorwFa7Ob"
+-'  1  0  /tmp/tutorwFa7Ob
+|4,39,1,0,1575137999,"/tmp/tutorwFa7Ob"
+-'  377  104  /tmp/tutorR2votF
+|4,39,377,104,1575137997,"/tmp/tutorR2votF"
+-'  377  104  /tmp/tutorR2votF
+|4,39,377,104,1575137997,"/tmp/tutorR2votF"
+-'  377  104  /tmp/tutorR2votF
+|4,39,377,104,1575137997,"/tmp/tutorR2votF"
+-'  377  104  /tmp/tutorR2votF
+|4,39,377,104,1575137997,"/tmp/tutorR2votF"
+-'  346  0  /tmp/tutorR2votF
+|4,39,346,0,1575137983,"/tmp/tutorR2votF"
+-'  346  0  /tmp/tutorR2votF
+|4,39,346,0,1575137983,"/tmp/tutorR2votF"
+-'  346  0  /tmp/tutorR2votF
+|4,39,346,0,1575137983,"/tmp/tutorR2votF"
+-'  346  0  /tmp/tutorR2votF
+|4,39,346,0,1575137983,"/tmp/tutorR2votF"
+-'  361  38  /tmp/tutorR2votF
+|4,39,361,38,1575137981,"/tmp/tutorR2votF"
+-'  361  38  /tmp/tutorR2votF
+|4,39,361,38,1575137981,"/tmp/tutorR2votF"
+-'  361  38  /tmp/tutorR2votF
+|4,39,361,38,1575137981,"/tmp/tutorR2votF"
+-'  361  38  /tmp/tutorR2votF
+|4,39,361,38,1575137981,"/tmp/tutorR2votF"
+-'  406  0  /tmp/tutorR2votF
+|4,39,406,0,1575137963,"/tmp/tutorR2votF"
+-'  406  0  /tmp/tutorR2votF
+|4,39,406,0,1575137963,"/tmp/tutorR2votF"
+-'  406  0  /tmp/tutorR2votF
+|4,39,406,0,1575137963,"/tmp/tutorR2votF"
+-'  406  0  /tmp/tutorR2votF
+|4,39,406,0,1575137963,"/tmp/tutorR2votF"
+-'  390  14  /tmp/tutorR2votF
+|4,39,390,14,1575137957,"/tmp/tutorR2votF"
+-'  390  14  /tmp/tutorR2votF
+|4,39,390,14,1575137957,"/tmp/tutorR2votF"
+-'  390  14  /tmp/tutorR2votF
+|4,39,390,14,1575137957,"/tmp/tutorR2votF"
+-'  390  14  /tmp/tutorR2votF
+|4,39,390,14,1575137957,"/tmp/tutorR2votF"
+-'  765  0  /tmp/tutorR2votF
+|4,39,765,0,1575137953,"/tmp/tutorR2votF"
+-'  765  0  /tmp/tutorR2votF
+|4,39,765,0,1575137953,"/tmp/tutorR2votF"
+-'  765  0  /tmp/tutorR2votF
+|4,39,765,0,1575137953,"/tmp/tutorR2votF"
+-'  765  0  /tmp/tutorR2votF
+|4,39,765,0,1575137953,"/tmp/tutorR2votF"
+-'  396  34  /tmp/tutorR2votF
+|4,39,396,34,1575137935,"/tmp/tutorR2votF"
+-'  396  34  /tmp/tutorR2votF
+|4,39,396,34,1575137935,"/tmp/tutorR2votF"
+-'  396  34  /tmp/tutorR2votF
+|4,39,396,34,1575137935,"/tmp/tutorR2votF"
+-'  396  34  /tmp/tutorR2votF
+|4,39,396,34,1575137935,"/tmp/tutorR2votF"
+-'  338  20  /tmp/tutorR2votF
+|4,39,338,20,1575137833,"/tmp/tutorR2votF"
+-'  338  20  /tmp/tutorR2votF
+|4,39,338,20,1575137833,"/tmp/tutorR2votF"
+-'  338  20  /tmp/tutorR2votF
+|4,39,338,20,1575137833,"/tmp/tutorR2votF"
+-'  338  20  /tmp/tutorR2votF
+|4,39,338,20,1575137833,"/tmp/tutorR2votF"
+-'  297  5  /tmp/tutorR2votF
+|4,39,297,5,1575137766,"/tmp/tutorR2votF"
+-'  297  5  /tmp/tutorR2votF
+|4,39,297,5,1575137766,"/tmp/tutorR2votF"
+-'  297  5  /tmp/tutorR2votF
+|4,39,297,5,1575137766,"/tmp/tutorR2votF"
+-'  297  5  /tmp/tutorR2votF
+|4,39,297,5,1575137766,"/tmp/tutorR2votF"
+-'  293  3  /tmp/tutorR2votF
+|4,39,293,3,1575137749,"/tmp/tutorR2votF"
+-'  293  3  /tmp/tutorR2votF
+|4,39,293,3,1575137749,"/tmp/tutorR2votF"
+-'  293  3  /tmp/tutorR2votF
+|4,39,293,3,1575137749,"/tmp/tutorR2votF"
+-'  293  3  /tmp/tutorR2votF
+|4,39,293,3,1575137749,"/tmp/tutorR2votF"
+-'  213  0  ~/.config/i3/config
+|4,39,213,0,1575137581,"~/.config/i3/config"
+-'  213  0  ~/.config/i3/config
+|4,39,213,0,1575137581,"~/.config/i3/config"
+-'  213  0  ~/.config/i3/config
+|4,39,213,0,1575137581,"~/.config/i3/config"
+-'  213  0  ~/.config/i3/config
+|4,39,213,0,1575137581,"~/.config/i3/config"
+-'  210  0  ~/.config/i3/config
+|4,39,210,0,1575137545,"~/.config/i3/config"
+-'  210  0  ~/.config/i3/config
+|4,39,210,0,1575137545,"~/.config/i3/config"
+-'  210  0  ~/.config/i3/config
+|4,39,210,0,1575137545,"~/.config/i3/config"
+-'  210  0  ~/.config/i3/config
+|4,39,210,0,1575137545,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575137403,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575137403,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1575137403,"~/.config/i3/config"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.Xresources
+	*	1575138446	0
+	"	4	19
+	^	55	0
+	.	4	0
+	+	16	0
+	+	3	20
+	+	4	0
+	+	55	0
+	+	4	0
+
+> /tmp/tutorwFa7Ob
+	*	1575138389	0
+	"	507	1
+	^	457	0
+	.	460	0
+	+	408	0
+	+	455	0
+	+	457	0
+	+	463	0
+	+	460	0
+
+> /tmp/tutorR2votF
+	*	1575137996	0
+	"	377	104
+	^	361	71
+	.	378	0
+	+	165	0
+	+	296	0
+	+	292	0
+	+	297	0
+	+	295	0
+	+	312	50
+	+	338	60
+	+	361	70
+	+	406	78
+	+	407	0
+	+	361	0
+	+	377	104
+	+	378	0
+
+> ~/.config/i3/config
+	*	1575137578	0
+	"	213	0
+	^	221	44
+	.	211	83
+	+	220	0
+	+	221	43
+	+	213	0
+	+	211	82
+	+	210	75
+	+	210	0
+	+	209	51
+	+	211	83
+
+> ~/.vimrc
+	*	1575137460	0
+	"	11	22
+	^	11	23
+	.	11	22
+	+	1	33
+	+	3	0
+	+	3	18
+	+	7	14
+	+	4	24
+	+	5	0
+	+	4	1
+	+	9	10
+	+	11	20
+	+	12	8
+	+	11	18
+	+	12	9
+	+	1	0
+	+	11	20
+	+	1	0
+	+	11	4
+	+	12	4
+	+	11	0
+	+	12	0
+	+	11	23
+	+	12	30
+	+	11	0
+	+	12	0
+	+	1	16
+	+	11	0
+	+	12	0
+	+	1	0
+	+	11	7
+	+	12	9
+	+	1	16
+	+	6	0
+	+	11	3
+	+	3	0
+	+	12	32
+	+	1	0
+	+	3	0
+	+	11	0
+	+	2	0
+	+	16	1
+	+	17	22
+	+	13	0
+	+	18	0
+	+	17	0
+	+	16	0
+	+	11	13
+	+	12	5
+	+	11	22
+
+> ~/.xinitrc
+	*	1575136554	0
+	"	50	0
+	^	50	0
+	.	44	40
+	+	50	0
+	+	44	40
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1575135411	0
+	"	1	0
+
+> /tmp/tutorN5DXJi
+	*	1575077662	0
+	"	293	0
+	^	182	0
+	.	223	0
+	+	85	17
+	+	159	44
+	+	182	0
+	+	177	58
+	+	216	0
+	+	222	0
+	+	224	0
+	+	223	0
+
+> /usr/share/vim/vim81/doc/map.txt
+	*	1575077060	0
+	"	642	0

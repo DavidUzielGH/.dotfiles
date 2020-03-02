@@ -1,0 +1,1270 @@
+# Vim 8.1 gener√≥ este archivo "viminfo".
+# Puede editarlo, ¬°s√≥lo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribi√≥ este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# √öltimo Patr√≥n de b√∫squeda:
+~MSle0~/print '\n'.join
+
+# √öltima cadena de sustituci√≥n:
+$
+
+# Historia de L√≠nea de √≥rdenes (de lo m√°s nuevo a lo m√°s antiguo):
+:w
+|2,0,1573439276,,"w"
+:q!
+|2,0,1573439180,,"q!"
+:q
+|2,0,1573439178,,"q"
+:W
+|2,0,1573094737,,"W"
+:Q
+|2,0,1572455789,,"Q"
+:help
+|2,0,1571937181,,"help"
+:vim
+|2,0,1571937178,,"vim"
+:FUCK
+|2,0,1571937175,,"FUCK"
+:wq
+|2,0,1571848306,,"wq"
+:Explore
+|2,0,1571844317,,"Explore"
+:Explorer
+|2,0,1571844310,,"Explorer"
+:file explorer
+|2,0,1571844304,,"file explorer"
+:quickref
+|2,0,1568857828,,"quickref"
+:fuck
+|2,0,1568857807,,"fuck"
+:thanks
+|2,0,1568857805,,"thanks"
+:-quickref
+|2,0,1568857779,,"-quickref"
+:-
+|2,0,1568857755,,"-"
+:set nopaste
+|2,0,1567572529,,"set nopaste"
+:s
+|2,0,1567523293,,"s"
+:set paste
+|2,0,1567380362,,"set paste"
+:set number
+|2,0,1567381425,,"set number"
+:w!
+|2,0,1567378317,,"w!"
+:unset paste
+|2,0,1567371448,,"unset paste"
+:P
+|2,0,1567359601,,"P"
+:qa
+|2,0,1567309195,,"qa"
+:x
+|2,0,1567309178,,"x"
+:'<,'>x
+|2,0,1567309153,,"'<,'>x"
+:h
+|2,0,1567292939,,"h"
+:select
+|2,0,1567292935,,"select"
+
+# Historia de Cadena de b√∫squeda (de lo m√°s nuevo a lo m√°s antiguo):
+?/print '\n'.join
+|2,1,1572468588,47,"print '\\n'.join"
+?/HOME_BACKGROUND
+|2,1,1572461302,47,"HOME_BACKGROUND"
+?/compton
+|2,1,1572457579,47,"compton"
+?/$mod+Shift+space
+|2,1,1572375456,47,"$mod+Shift+space"
+?/pulseaudio
+|2,1,1571861820,47,"pulseaudio"
+?/XF86
+|2,1,1571846407,47,"XF86"
+? @$
+|2,1,1571844317,,"@$"
+?/wifi
+|2,1,1567999618,47,"wifi"
+?/alias
+|2,1,1567570875,47,"alias"
+?/opacity
+|2,1,1567529060,47,"opacity"
+? \<interval\>
+|2,1,1567393263,,"\\<interval\\>"
+?/load
+|2,1,1567390899,47,"load"
+? \<DOCUMENTS\>
+|2,1,1567384359,,"\\<DOCUMENTS\\>"
+?/right
+|2,1,1567384164,47,"right"
+?/status
+|2,1,1567380173,47,"status"
+?/exit code 
+|2,1,1567381193,47,"exit code "
+?/branch
+|2,1,1567377818,47,"branch"
+?/GIT
+|2,1,1567377044,47,"GIT"
+?/master
+|2,1,1567377020,47,"master"
+?/override
+|2,1,1567367119,47,"override"
+?/FOREGROUND
+|2,1,1567366476,47,"FOREGROUND"
+?/foreground
+|2,1,1567366465,47,"foreground"
+?/anchor
+|2,1,1567364841,47,"anchor"
+?/images
+|2,1,1567364132,47,"images"
+?/IMA
+|2,1,1567364059,47,"IMA"
+? \<HOME\>
+|2,1,1567360335,,"\\<HOME\\>"
+?/dir
+|2,1,1567359982,47,"dir"
+?/HOME
+|2,1,1567359209,47,"HOME"
+?/39
+|2,1,1567359154,47,"39"
+
+# Historia de Expresi√≥n (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Historia de L√≠nea de entrada (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Historia de Debug Line (de lo m√°s nuevo a lo m√°s antiguo):
+
+# Registros:
+"0	BLOCK	3
+	USB/
+|3,0,0,2,1,3,1572631564,"USB/"
+"1	LINE	0
+	
+|3,0,1,1,1,0,1573069620,""
+"2	LINE	0
+				xft:SauceCodePro Nerd Font Mono Bold:bold:size=10
+|3,0,2,1,1,0,1573015489,"			xft:SauceCodePro Nerd Font Mono Bold:bold:size=10"
+"3	CHAR	0
+	! special
+	*.foreground:   #c9c5cb
+	*.background:   #121013
+	*.cursorColor:  #c9c5cb
+	
+	! black
+	*.color0:       #1d1b1f
+	*.color8:       #da4781
+	
+	! red
+	*.color1:       #262328
+	*.color9:       #35b1e7
+	
+	! green
+	*.color2:       #38343a
+	*.color10:      #c570e6
+	
+	! yellow
+	*.color3:       #504a53
+	*.color11:      #ba65db
+	
+	! blue
+	*.color4:       #6e6772
+	*.color12:      #77b42c
+	
+	! magenta
+	*.color5:       #918996
+	*.color13:      #4fa192
+	
+	! cyan
+	*.color6:       #b8b3bb
+	*.color14:      #56a697
+	
+	! white
+	*.color7:       #e4e2e5
+	*.color15:      #46a2cf
+	
+|3,0,3,0,37,0,1572469499,"! special","*.foreground:   #c9c5cb","*.background:   #121013","*.cursorColor:  #c9c5cb","","! black","*.color0:       #1d1b1f","*.color8:       #da4781","","! red","*.color1:       #262328","*.color9:       #35b1e7","","! green","*.color2:       #38343a","*.color10:      #c570e6","","! yellow","*.color3:       #504a53","*.color11:      #ba65db","","! blue","*.color4:       #6e6772","*.color12:      #77b42c","","! magenta",>25
+|<"*.color5:       #918996","*.color13:      #4fa192","","! cyan","*.color6:       #b8b3bb","*.color14:      #56a697","","! white","*.color7:       #e4e2e5","*.color15:      #46a2cf",""
+"4	CHAR	0
+	! special
+	*.foreground:   #ffffff
+	*.background:   #1e1e1e
+	*.cursorColor:  #ffffff
+	
+	! black
+	*.color0:       #5a7260
+	*.color8:       #8da691
+	
+	! red
+	*.color1:       #8f423c
+	*.color9:       #eeaa88
+	
+	! green
+	*.color2:       #bbbb88
+	*.color10:      #ccc68d
+	
+	! yellow
+	*.color3:       #f9d25b
+	*.color11:      #eedd99
+	
+	! blue
+	*.color4:       #e0ba69
+	*.color12:      #c9b957
+	
+	! magenta
+	*.color5:       #709289
+	*.color13:      #ffcbab
+	
+	! cyan
+	*.color6:       #d13516
+	*.color14:      #c25431
+	
+	! white
+	*.color7:       #efe2e0
+	*.color15:      #f9f1ed
+|3,0,4,0,36,0,1572469214,"! special","*.foreground:   #ffffff","*.background:   #1e1e1e","*.cursorColor:  #ffffff","","! black","*.color0:       #5a7260","*.color8:       #8da691","","! red","*.color1:       #8f423c","*.color9:       #eeaa88","","! green","*.color2:       #bbbb88","*.color10:      #ccc68d","","! yellow","*.color3:       #f9d25b","*.color11:      #eedd99","","! blue","*.color4:       #e0ba69","*.color12:      #c9b957","","! magenta",>25
+|<"*.color5:       #709289","*.color13:      #ffcbab","","! cyan","*.color6:       #d13516","*.color14:      #c25431","","! white","*.color7:       #efe2e0","*.color15:      #f9f1ed"
+"5	CHAR	0
+	! special
+	*.foreground:   #98d1ce
+	*.background:   #0a0f14
+	*.cursorColor:  #98d1ce
+	
+	! black
+	*.color0:       #0a0f14
+	*.color8:       #10151b
+	
+	! red
+	*.color1:       #c33027
+	*.color9:       #d26939
+	
+	! green
+	*.color2:       #26a98b
+	*.color10:      #081f2d
+	
+	! yellow
+	*.color3:       #edb54b
+	*.color11:      #245361
+	
+	! blue
+	*.color4:       #195465
+	*.color12:      #093748
+	
+	! magenta
+	*.color5:       #4e5165
+	*.color13:      #888ba5
+	
+	! cyan
+	*.color6:       #33859d
+	*.color14:      #599caa
+	
+	! white
+	*.color7:       #98d1ce
+	*.color15:      #d3ebe9
+	
+	
+|3,0,5,0,38,0,1572461139,"! special","*.foreground:   #98d1ce","*.background:   #0a0f14","*.cursorColor:  #98d1ce","","! black","*.color0:       #0a0f14","*.color8:       #10151b","","! red","*.color1:       #c33027","*.color9:       #d26939","","! green","*.color2:       #26a98b","*.color10:      #081f2d","","! yellow","*.color3:       #edb54b","*.color11:      #245361","","! blue","*.color4:       #195465","*.color12:      #093748","","! magenta",>25
+|<"*.color5:       #4e5165","*.color13:      #888ba5","","! cyan","*.color6:       #33859d","*.color14:      #599caa","","! white","*.color7:       #98d1ce","*.color15:      #d3ebe9","",""
+"6	CHAR	0
+	! special
+	*.foreground:   #98d1ce
+	*.background:   #0a0f14
+	*.cursorColor:  #98d1ce
+	
+	! black
+	*.color0:       #0a0f14
+	*.color8:       #db0e0e
+	
+	! red
+	*.color1:       #c33027
+	*.color9:       #d26939
+	
+	! green
+	*.color2:       #26a98b
+	*.color10:      #081f2d
+	
+	! yellow
+	*.color3:       #edb54b
+	*.color11:      #245361
+	
+	! blue
+	*.color4:       #195465
+	*.color12:      #093748
+	
+	! magenta
+	*.color5:       #4e5165
+	*.color13:      #888ba5
+	
+	! cyan
+	*.color6:       #33859d
+	*.color14:      #599caa
+	
+	! white
+	*.color7:       #98d1ce
+	*.color15:      #d3ebe9
+	
+	
+|3,0,6,0,38,0,1572460933,"! special","*.foreground:   #98d1ce","*.background:   #0a0f14","*.cursorColor:  #98d1ce","","! black","*.color0:       #0a0f14","*.color8:       #db0e0e","","! red","*.color1:       #c33027","*.color9:       #d26939","","! green","*.color2:       #26a98b","*.color10:      #081f2d","","! yellow","*.color3:       #edb54b","*.color11:      #245361","","! blue","*.color4:       #195465","*.color12:      #093748","","! magenta",>25
+|<"*.color5:       #4e5165","*.color13:      #888ba5","","! cyan","*.color6:       #33859d","*.color14:      #599caa","","! white","*.color7:       #98d1ce","*.color15:      #d3ebe9","",""
+"7	CHAR	0
+	! special
+	*.foreground:   #d2c5bc
+	*.background:   #101010
+	*.cursorColor:  #d2c5bc
+	
+	! black
+	*.color0:       #202020
+	*.color8:       #606060
+	
+	! red
+	*.color1:       #b91e2e
+	*.color9:       #d14548
+	
+	! green
+	*.color2:       #81957c
+	*.color10:      #a7b79a
+	
+	! yellow
+	*.color3:       #f9bb80
+	*.color11:      #fae3a0
+	
+	! blue
+	*.color4:       #356579
+	*.color12:      #7491a1
+	
+	! magenta
+	*.color5:       #2d2031
+	*.color13:      #87314e
+	
+	! cyan
+	*.color6:       #0b3452
+	*.color14:      #0f829d
+	
+	! white
+	*.color7:       #909090
+	*.color15:      #fff0f0
+	
+|3,0,7,0,37,0,1572460492,"! special","*.foreground:   #d2c5bc","*.background:   #101010","*.cursorColor:  #d2c5bc","","! black","*.color0:       #202020","*.color8:       #606060","","! red","*.color1:       #b91e2e","*.color9:       #d14548","","! green","*.color2:       #81957c","*.color10:      #a7b79a","","! yellow","*.color3:       #f9bb80","*.color11:      #fae3a0","","! blue","*.color4:       #356579","*.color12:      #7491a1","","! magenta",>25
+|<"*.color5:       #2d2031","*.color13:      #87314e","","! cyan","*.color6:       #0b3452","*.color14:      #0f829d","","! white","*.color7:       #909090","*.color15:      #fff0f0",""
+"8	BLOCK	22
+	*.foreground:   #98d1ce
+	*.background:   #0a0f14
+	*.cursorColor:  #98d1ce
+|3,0,8,2,3,22,1572457103,"*.foreground:   #98d1ce","*.background:   #0a0f14","*.cursorColor:  #98d1ce"
+"9	CHAR	0
+	
+	! black
+	*.color0:       #0a0f14
+	*.color8:       #41566f
+	
+	! red
+	*.color1:       #c33027
+	*.color9:       #d26939
+	
+	! green
+	*.color2:       #26a98b
+	*.color10:      #081f2d
+	
+	! yellow
+	*.color3:       #edb54b
+	*.color11:      #245361
+	
+	! blue
+	*.color4:       #195465
+	*.color12:      #093748
+	
+	! magenta
+	*.color5:       #4e5165
+	*.color13:      #888ba5
+	
+	! cyan
+	*.color6:       #33859d
+	*.color14:      #599caa
+	
+	! white
+	*.color7:       #98d1ce
+	*.color15:      #d3ebe9
+	
+|3,0,9,0,33,0,1572456929,"","! black","*.color0:       #0a0f14","*.color8:       #41566f","","! red","*.color1:       #c33027","*.color9:       #d26939","","! green","*.color2:       #26a98b","*.color10:      #081f2d","","! yellow","*.color3:       #edb54b","*.color11:      #245361","","! blue","*.color4:       #195465","*.color12:      #093748","","! magenta","*.color5:       #4e5165","*.color13:      #888ba5","","! cyan","*.color6:       #33859d",>25
+|<"*.color14:      #599caa","","! white","*.color7:       #98d1ce","*.color15:      #d3ebe9",""
+"d	CHAR	0
+	dÄkbddsdasadÄkbÄkbÄkbÄkbÄkbÄ˝aÄ˝aÄ˝a1
+|3,0,13,0,1,0,1571937096,"dÄkbddsdasadÄkbÄkbÄkbÄkbÄkbÄ˝aÄ˝aÄ˝a1"
+"i	CHAR	0
+	LeiLet's get this breadÄ˝a.√ëlÄkbÄkdÄkrÄkrÄkrÄkrÄkr√±ÄkrÄklÄklÄkdÄklÄkrÄkrÄkrÄkrÄkrÄklIÄkrÄkrÄkdÄklÄkrÄ˝aL¬∫¬∫Ä˝aÄ˝aÄ˝aÄ˝aÄ˝aQQÄ˝aQQQÄkbÄkbQQQQQBRÄ˝aQQÄ˝a:W:Q:q
+|3,0,18,0,1,0,1571937149,"LeiLet's get this breadÄ˝a.√ëlÄkbÄkdÄkrÄkrÄkrÄkrÄkr√±ÄkrÄklÄklÄkdÄklÄkrÄkrÄkrÄkrÄkrÄklIÄkrÄkrÄkdÄklÄkrÄ˝aL¬∫¬∫Ä˝aÄ˝aÄ˝aÄ˝aÄ˝aQQÄ˝aQQQÄkbÄkbQQQQQBRÄ˝aQQÄ˝a:W:Q:q"
+"q	CHAR	0
+	u:Äkb
+|3,0,26,0,1,0,1568857765,"u:Äkb"
+"u	CHAR	0
+	iÄ˝a
+|3,0,30,0,1,0,1568857834,"iÄ˝a"
+""-	BLOCK	43
+	-i ~/Imagenes/Wallpapers/vinne.wallpaper.jpg
+|3,1,36,2,1,43,1573069627,"-i ~/Imagenes/Wallpapers/vinne.wallpaper.jpg"
+
+# Marcas en el archivo:
+'0  41  53  ~/.Xresources
+|4,48,41,53,1573439277,"~/.Xresources"
+'1  330  49  ~/.p10k.zsh
+|4,49,330,49,1573094838,"~/.p10k.zsh"
+'2  37  0  ~/.config/i3/config
+|4,50,37,0,1573094498,"~/.config/i3/config"
+'3  314  23  ~/.p10k.zsh
+|4,51,314,23,1573080941,"~/.p10k.zsh"
+'4  313  23  ~/.p10k.zsh
+|4,52,313,23,1573080941,"~/.p10k.zsh"
+'5  2  0  ~/.config/i3/config
+|4,53,2,0,1573080400,"~/.config/i3/config"
+'6  2  0  ~/.config/i3/config
+|4,54,2,0,1573080400,"~/.config/i3/config"
+'7  57  41  ~/.config/i3/config
+|4,55,57,41,1573069653,"~/.config/i3/config"
+'8  57  41  ~/.config/i3/config
+|4,56,57,41,1573069653,"~/.config/i3/config"
+'9  57  41  ~/.config/i3/config
+|4,57,57,41,1573069653,"~/.config/i3/config"
+
+# Lista de saltos (el m√°s reciente va primero):
+-'  41  53  ~/.Xresources
+|4,39,41,53,1573439277,"~/.Xresources"
+-'  46  67  ~/.Xresources
+|4,39,46,67,1573439258,"~/.Xresources"
+-'  330  49  ~/.p10k.zsh
+|4,39,330,49,1573094838,"~/.p10k.zsh"
+-'  330  49  ~/.p10k.zsh
+|4,39,330,49,1573094838,"~/.p10k.zsh"
+-'  330  49  ~/.p10k.zsh
+|4,39,330,49,1573094838,"~/.p10k.zsh"
+-'  330  49  ~/.p10k.zsh
+|4,39,330,49,1573094838,"~/.p10k.zsh"
+-'  314  7  ~/.p10k.zsh
+|4,39,314,7,1573094506,"~/.p10k.zsh"
+-'  314  7  ~/.p10k.zsh
+|4,39,314,7,1573094506,"~/.p10k.zsh"
+-'  314  7  ~/.p10k.zsh
+|4,39,314,7,1573094506,"~/.p10k.zsh"
+-'  314  7  ~/.p10k.zsh
+|4,39,314,7,1573094506,"~/.p10k.zsh"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  37  0  ~/.config/i3/config
+|4,39,37,0,1573094498,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573094490,"~/.config/i3/config"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  313  23  ~/.p10k.zsh
+|4,39,313,23,1573080941,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  11  0  ~/.p10k.zsh
+|4,39,11,0,1573080405,"~/.p10k.zsh"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  2  0  ~/.config/i3/config
+|4,39,2,0,1573080400,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573080394,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+-'  57  41  ~/.config/i3/config
+|4,39,57,41,1573069653,"~/.config/i3/config"
+
+# Historia de las marcas en los archivos (de la m√°s reciente a la m√°s antigua):
+
+> ~/.Xresources
+	*	1573439276	0
+	"	41	53
+	^	41	54
+	.	41	53
+	+	40	13
+	+	40	95
+	+	40	1
+	+	41	29
+	+	40	90
+	+	41	3
+	+	40	91
+	+	40	4
+	+	41	19
+	+	40	53
+	+	41	25
+	+	41	137
+	+	43	2
+	+	41	29
+	+	41	26
+	+	41	29
+	+	41	26
+	+	44	34
+	+	45	34
+	+	44	19
+	+	45	38
+	+	45	43
+	+	48	46
+	+	43	74
+	+	45	0
+	+	44	23
+	+	45	32
+	+	45	37
+	+	48	44
+	+	43	89
+	+	44	37
+	+	45	47
+	+	49	19
+	+	43	74
+	+	49	19
+	+	43	74
+	+	44	45
+	+	45	54
+	+	45	44
+	+	48	51
+	+	45	44
+	+	45	54
+	+	44	45
+	+	45	54
+	+	45	44
+	+	48	51
+	+	49	19
+	+	43	0
+	+	42	53
+	+	51	23
+	+	39	69
+	+	1	0
+	+	1	15
+	+	1	14
+	+	39	0
+	+	1	14
+	+	39	0
+	+	39	23
+	+	39	22
+	+	39	0
+	+	39	23
+	+	39	0
+	+	1	14
+	+	39	75
+	+	40	0
+	+	39	0
+	+	39	23
+	+	39	0
+	+	39	22
+	+	39	0
+	+	39	23
+	+	39	22
+	+	39	23
+	+	39	0
+	+	39	23
+	+	39	0
+	+	39	23
+	+	40	0
+	+	2	0
+	+	2	23
+	+	39	0
+	+	2	0
+	+	2	22
+	+	39	0
+	+	37	23
+	+	41	15
+	+	41	13
+	+	51	0
+	+	48	0
+	+	45	0
+	+	48	0
+	+	47	4
+	+	45	69
+	+	42	0
+	+	47	0
+	+	45	0
+	+	46	69
+	+	47	14
+	+	46	67
+	+	41	53
+	i	40	60
+
+> ~/.p10k.zsh
+	*	1573094833	0
+	"	330	49
+	^	330	50
+	.	330	49
+	+	341	60
+	+	304	10
+	+	341	0
+	+	340	0
+	+	341	0
+	+	340	42
+	+	222	48
+	+	333	23
+	+	340	32
+	+	338	60
+	+	340	9
+	+	338	12
+	+	338	9
+	+	340	0
+	+	339	12
+	+	306	23
+	+	327	0
+	+	327	46
+	+	11	1
+	+	11	0
+	+	327	46
+	+	212	42
+	+	220	52
+	+	222	81
+	+	327	46
+	+	327	0
+	+	315	0
+	+	213	1
+	+	212	41
+	+	316	46
+	+	306	21
+	+	285	24
+	+	306	21
+	+	316	0
+	+	306	21
+	+	307	20
+	+	306	12
+	+	307	21
+	+	306	12
+	+	285	24
+	+	306	11
+	+	307	36
+	+	318	54
+	+	319	60
+	+	318	53
+	+	223	0
+	+	320	9
+	+	307	36
+	+	308	28
+	+	321	49
+	+	309	33
+	+	323	52
+	+	309	37
+	+	310	24
+	+	325	49
+	+	310	30
+	+	311	21
+	+	315	0
+	+	311	21
+	+	326	0
+	+	332	0
+	+	326	6
+	+	327	46
+	+	334	43
+	+	312	35
+	+	334	46
+	+	312	38
+	+	309	16
+	+	331	46
+	+	312	35
+	+	334	48
+	+	335	0
+	+	323	51
+	+	331	46
+	+	11	0
+	+	163	38
+	+	309	16
+	+	312	4
+	+	309	16
+	+	212	42
+	+	163	39
+	+	327	46
+	+	321	49
+	+	323	53
+	+	311	26
+	+	312	0
+	+	311	21
+	+	307	32
+	+	11	0
+	+	316	48
+	+	11	0
+	+	316	46
+	+	11	0
+	+	314	24
+	+	313	15
+	+	311	16
+	+	313	22
+	+	312	24
+	+	313	24
+	+	330	49
+
+> ~/.config/i3/config
+	*	1573094497	0
+	"	37	0
+	^	57	42
+	.	57	41
+	+	209	58
+	+	210	83
+	+	211	89
+	+	212	68
+	+	197	3
+	+	198	0
+	+	195	0
+	+	199	0
+	+	196	1
+	+	194	59
+	+	196	42
+	+	190	33
+	+	190	12
+	+	77	34
+	+	39	32
+	+	36	76
+	+	33	36
+	+	36	8
+	+	33	22
+	+	36	0
+	+	33	22
+	+	34	75
+	+	36	0
+	+	35	21
+	+	34	74
+	+	35	74
+	+	217	0
+	+	218	10
+	+	218	47
+	+	57	56
+	+	57	41
+
+> ~/.zshrc
+	*	1572631677	0
+	"	101	32
+	^	101	33
+	.	101	33
+	+	107	63
+	+	108	0
+	+	106	0
+	+	107	0
+	+	106	0
+	+	97	13
+	+	100	0
+	+	98	20
+	+	100	0
+	+	98	17
+	+	100	17
+	+	101	43
+	+	102	36
+	+	101	33
+
+> ~/Projects/Scripts/USB/usbumount.sh
+	*	1572631641	0
+	"	8	24
+	^	8	25
+	.	8	24
+	+	5	22
+	+	4	3
+	+	7	3
+	+	10	3
+	+	8	29
+	+	7	4
+	+	10	4
+	+	11	29
+	+	8	24
+
+> ~/usbmount.sh
+	*	1572630879	0
+	"	1	0
+
+> ~/Projects/Scripts/usbmount.sh
+	*	1572630668	0
+	"	3	18
+	^	6	3
+	.	3	17
+	+	1	10
+	+	4	18
+	+	4	25
+	+	2	5
+	+	4	0
+	+	5	3
+	+	4	10
+	+	8	3
+	+	11	3
+	+	8	3
+	+	11	4
+	+	8	4
+	+	6	21
+	+	9	28
+	+	12	14
+	+	15	63
+	+	4	0
+	+	5	1
+	+	4	0
+	+	3	17
+
+> ~/Projects/Scripts/usbumount.sh
+	*	1572629675	0
+	"	14	33
+	^	14	34
+	.	14	33
+	+	1	10
+	+	3	18
+	+	2	6
+	+	8	0
+	+	5	23
+	+	7	0
+	+	8	33
+	+	8	29
+	+	8	31
+	+	8	34
+	+	10	0
+	+	11	34
+	+	13	0
+	+	14	23
+	+	15	3
+	+	6	0
+	+	5	29
+	+	9	0
+	+	8	36
+	+	12	0
+	+	11	36
+	+	13	1
+	+	10	4
+	+	7	4
+	+	11	30
+	+	14	31
+	+	16	4
+	+	11	30
+	+	9	0
+	+	5	23
+	+	6	0
+	+	11	29
+	+	14	33
+
+> ~/theme.py
+	*	1572468565	0
+	"	34	9
+	^	529	32
+	.	529	31
+	+	529	31
+
+> ~/Projects/Joel/Funciones y recursividad.c
+	*	1572461558	0
+	"	1	0
+
+> ~/Projects/Joel/Funciones y recursividad
+	*	1572461545	0
+	"	1	0
+
+> /etc/xdg/compton.conf
+	*	1572461470	0
+	"	219	5
+	^	219	6
+	.	219	5
+	+	218	2
+	+	219	5
+
+> ~/Projects/Joel/Ejemplodx.c
+	*	1572457769	0
+	"	1	0
+
+> ~/bargage
+	*	1572457580	0
+	"	172	0
+
+> ~/.Xresource
+	*	1572456910	0
+	"	1	0
+
+> ~/Downloads/navy-and-ivory.txt
+	*	1572455737	0
+	"	1	0
+
+> ~/.config/i3blocks/config
+	*	1572019269	0
+	"	43	0
+	^	42	8
+	.	42	7
+	+	39	16
+	+	39	10
+	+	39	19
+	+	81	0
+	+	73	0
+	+	83	13
+	+	85	0
+	+	87	0
+	+	28	16
+	+	28	36
+	+	106	9
+	+	107	14
+	+	108	0
+	+	120	9
+	+	100	0
+	+	101	0
+	+	99	0
+	+	41	10
+	+	65	11
+	+	58	0
+	+	57	0
+	+	56	0
+	+	55	0
+	+	57	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	49	10
+	+	39	20
+	+	123	0
+	+	109	11
+	+	110	0
+	+	28	16
+	+	48	8
+	+	50	13
+	+	64	6
+	+	81	6
+	+	81	4
+	+	81	0
+	+	117	0
+	+	79	0
+	+	117	0
+	+	115	0
+	+	111	0
+	+	79	0
+	+	113	11
+	+	120	11
+	+	108	9
+	+	38	0
+	+	39	0
+	+	38	14
+	+	38	0
+	+	121	22
+	+	41	9
+	+	42	7
+
+> ~/Downloads/ordenacion_de_datos3.pdf.hex
+	*	1571952130	0
+	"	1	0
+
+> /usr/share/geany/colorschemes/darkula.conf
+	*	1571951063	0
+	"	150	0
+	^	150	0
+	.	149	25
+	+	149	25
+
+> /usr/share/geany/colorschemes/alt.conf
+	*	1571951046	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1571937209	0
+	"	107	1
+
+> ~/.xinitrc
+	*	1571935290	0
+	"	5	13
+	^	5	14
+	.	6	0
+	+	5	14
+	+	6	0
+
+> /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/actual_brightness
+	*	1571845602	0
+	"	1	0
+
+> ~/.Xauthority
+	*	1571844420	0
+	"	1	0
+
+> /etc/i3status.conf
+	*	1571249948	0
+	"	52	13
+	^	52	14
+
+> ~/.config/i3blocks/wifi/i3blocks.conf
+	*	1567999691	0
+	"	1	0
+
+> ~/.config/i3blocks/wifipy
+	*	1567999663	0
+	"	53	1
+	^	51	0
+
+> ~/.config/i3blocks/wifi/README.md
+	*	1567999567	0
+	"	2	0
+
+> ~/.config/i3blocks/memory/i3blocks.conf
+	*	1567999185	0
+	"	2	0
+
+> ~/.config/i3blocks/memory/README.md
+	*	1567999142	0
+	"	3	0
+
+> /etc/i3blocks.conf
+	*	1567999060	0
+	"	15	6
+	^	15	7
+	.	15	7
+	+	15	7
+
+> ~/astyle312_update_requires_manual_intervention.txt
+	*	1567996985	0
+	"	1	0
+
+> ~/buffer
+	*	1567572529	0
+	"	1	0
+
+> ~/Documentos/Bandit/pswd
+	*	1567526999	0
+	"	1	31
+	.	1	0
+	+	1	0
+
+> ~/Documentos/Bandit/sshkey2.private
+	*	1567526478	0
+	"	28	0
+	^	28	0
+	.	27	29
+	+	27	29
+
+> ~/Documentos/Bandit/sshkey.private
+	*	1567525100	0
+	"	28	0
+	^	28	0
+	.	27	29
+	+	27	29
+
+> ~/pwsd
+	*	1567523911	0
+	"	1	0
+	^	1	32
+	.	2	0
+	+	1	31
+	+	2	0
+
+> ~/.bashrc
+	*	1567523438	0
+	"	1	0
+
+> ~/pswd
+	*	1567488120	0
+	"	4	31
+	^	4	32
+	.	4	31
+	+	1	32
+	+	2	32
+	+	3	32
+	+	4	31
+
+> ~/.p10k
+	*	1567481431	0
+	"	1	0
+
+> ~/evim
+	*	1567391311	0
+	"	1	0
+
+> /usr/lib/i3blocks/cpu_usage
+	*	1567381221	0
+	"	12	0
+
+> /usr/lib/i3blocks/battery
+	*	1567381200	0
+	"	21	3
+
+> /etc/motd
+	*	1567378332	0
+	"	23	0
+	^	23	0
+	.	22	13
+	+	22	13
+
+> ~/GIt/powerlevel10k/powerlevel10k.zsh-theme
+	*	1567317370	0
+	"	31	0
+
+> ~/Downloads/.zshrc
+	*	1567311068	0
+	"	1	0
+
+> /etc/fonts/conf.d/10-hinting-slight.conf
+	*	1567291956	0
+	"	5	4
+	^	18	4
+	.	4	0
+	+	18	4
+	+	4	0
+
+> ~/.config/ranger/rc.conf
+	*	1567193278	0
+	"	109	30
+	^	2	32
+	.	109	30
+	+	1	23
+	+	2	32
+	+	111	0
+	+	109	30
+
+> ~/rc.conf
+	*	1567193236	0
+	"	1	0
+
+> ~/karl
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25

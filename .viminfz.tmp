@@ -1,0 +1,622 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/rule
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:w
+|2,0,1574443800,,"w"
+:q!
+|2,0,1574443332,,"q!"
+:q
+|2,0,1574442729,,"q"
+:W
+|2,0,1574364670,,"W"
+:Q
+|2,0,1574363110,,"Q"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/rule
+|2,1,1574443317,47,"rule"
+? @$
+|2,1,1574362888,,"@$"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	! special
+	*.foreground:   #98d1ce
+	*.background:   #0a0f14
+	*.cursorColor:  #98d1ce
+	
+	! black
+	*.color0:       #0a0f14
+	*.color8:       #10151b
+	
+	! red
+	*.color1:       #c33027
+	*.color9:       #d26939
+	
+	! green
+	*.color2:       #26a98b
+	*.color10:      #05e852
+	
+	! yellow
+	*.color3:       #edb54b
+	*.color11:      #6513db
+	
+	! blue
+	*.color4:       #da641b
+	*.color12:      #229bc7
+	
+	! magenta
+	*.color5:       #f53859
+	*.color13:      #b94988
+	
+	! cyan
+	*.color6:       #60bfd8
+	*.color14:      #5b55d8
+	
+	! white
+	*.color7:       #98d1ce
+	*.color15:      #d3ebe9
+|3,0,0,0,36,0,1574442654,"! special","*.foreground:   #98d1ce","*.background:   #0a0f14","*.cursorColor:  #98d1ce","","! black","*.color0:       #0a0f14","*.color8:       #10151b","","! red","*.color1:       #c33027","*.color9:       #d26939","","! green","*.color2:       #26a98b","*.color10:      #05e852","","! yellow","*.color3:       #edb54b","*.color11:      #6513db","","! blue","*.color4:       #da641b","*.color12:      #229bc7","","! magenta",>25
+|<"*.color5:       #f53859","*.color13:      #b94988","","! cyan","*.color6:       #60bfd8","*.color14:      #5b55d8","","! white","*.color7:       #98d1ce","*.color15:      #d3ebe9"
+""1	CHAR	0
+	! cyan
+	*.color6:       #60bfd8
+	*.color14:      #5b55d8
+|3,1,1,0,3,0,1574442814,"! cyan","*.color6:       #60bfd8","*.color14:      #5b55d8"
+"2	CHAR	0
+	
+	! cyan
+	*.color6:       #60bfd8
+	*.color14:      #5b55d8
+|3,0,2,0,4,0,1574365997,"","! cyan","*.color6:       #60bfd8","*.color14:      #5b55d8"
+"3	CHAR	0
+	! cyan
+	*.color6:       #60bfd8
+	*.color14:      #5b55d
+	
+	
+|3,0,3,0,5,0,1574365964,"! cyan","*.color6:       #60bfd8","*.color14:      #5b55d","",""
+"4	CHAR	0
+	! cyan
+	*.color6:       #1b00b3
+	*.color14:      #2920e2
+|3,0,4,0,3,0,1574365917,"! cyan","*.color6:       #1b00b3","*.color14:      #2920e2"
+"5	CHAR	0
+	! cyan
+	*.color6:       #33859d
+	*.color14:      #599caa
+|3,0,5,0,3,0,1574365853,"! cyan","*.color6:       #33859d","*.color14:      #599caa"
+"6	CHAR	0
+	! special
+	*.foreground:   #98d1ce
+	*.background:   #0a0f14
+	*.cursorColor:  #98d1ce
+	
+	! black
+	*.color0:       #0a0f14
+	*.color8:       #10151b
+	
+	! red
+	*.color1:       #c33027
+	*.color9:       #d26939
+	
+	! green
+	*.color2:       #26a98b
+	*.color10:      #081f2d
+	
+	! yellow
+	*.color3:       #edb54b
+	*.color11:      #245361
+	
+	! blue
+	*.color4:       #195465
+	*.color12:      #093748
+	
+	! magenta
+	*.color5:       #4e5165
+	*.color13:      #888ba5
+	
+	! cyan
+	*.color6:       #33859d
+	*.color14:      #599caa
+	
+	! white
+	*.color7:       #98d1ce
+	*.color15:      #d3ebe9
+	
+	
+|3,0,6,0,38,0,1574365497,"! special","*.foreground:   #98d1ce","*.background:   #0a0f14","*.cursorColor:  #98d1ce","","! black","*.color0:       #0a0f14","*.color8:       #10151b","","! red","*.color1:       #c33027","*.color9:       #d26939","","! green","*.color2:       #26a98b","*.color10:      #081f2d","","! yellow","*.color3:       #edb54b","*.color11:      #245361","","! blue","*.color4:       #195465","*.color12:      #093748","","! magenta",>25
+|<"*.color5:       #4e5165","*.color13:      #888ba5","","! cyan","*.color6:       #33859d","*.color14:      #599caa","","! white","*.color7:       #98d1ce","*.color15:      #d3ebe9","",""
+"7	BLOCK	22
+	! special
+	*.foreground:   #e8dfd6
+	*.background:   #021b21
+	*.cursorColor:  #e8dfd6
+	
+	! black
+	*.color0:       #032c36
+	*.color8:       #065f73
+	
+	! red
+	*.color1:       #c2454e
+	*.color9:       #ef5847
+	
+	! green
+	*.color2:       #7cbf9e
+	*.color10:      #a2d9b1
+	
+	! yellow
+	*.color3:       #8a7a63
+	*.color11:      #beb090
+	
+	! blue
+	*.color4:       #2e3340
+	*.color12:      #61778d
+	
+	! magenta
+	*.color5:       #ff5879
+	*.color13:      #ff99a1
+	
+	! cyan
+	*.color6:       #44b5b1
+	*.color14:      #9ed9d8
+	
+	! white
+	*.color7:       #f2f1b9
+	*.color15:      #f6f6c9
+	
+|3,0,7,2,37,22,1574364862,"! special","*.foreground:   #e8dfd6","*.background:   #021b21","*.cursorColor:  #e8dfd6","","! black","*.color0:       #032c36","*.color8:       #065f73","","! red","*.color1:       #c2454e","*.color9:       #ef5847","","! green","*.color2:       #7cbf9e","*.color10:      #a2d9b1","","! yellow","*.color3:       #8a7a63","*.color11:      #beb090","","! blue","*.color4:       #2e3340","*.color12:      #61778d","","! magenta",>25
+|<"*.color5:       #ff5879","*.color13:      #ff99a1","","! cyan","*.color6:       #44b5b1","*.color14:      #9ed9d8","","! white","*.color7:       #f2f1b9","*.color15:      #f6f6c9",""
+"8	CHAR	0
+	! special
+	! special
+	*.foreground:   #919191
+	*.background:   #000000
+	*.cursorColor:  #919191
+	
+	! black
+	*.color0:       #303030
+	*.color8:       #5e5e5e
+	
+	! red
+	*.color1:       #c10023
+	*.color9:       #ff8781
+	
+	! green
+	*.color2:       #a83334
+	*.color10:      #ffa095
+	
+	! yellow
+	*.color3:       #b51d2c
+	*.color11:      #ff948b
+	
+	! blue
+	*.color4:       #8c4b46
+	*.color12:      #feb2aa
+	
+	! magenta
+	*.color5:       #7d534f
+	*.color13:      #ebbbb5
+	
+	! cyan
+	*.color6:       #9a413d
+	*.color14:      #ffaaa0
+	
+	! white
+	*.color7:       #c6c6c6
+	*.color15:      #ffffff
+	
+	
+|3,0,8,0,39,0,1574364654,"! special","! special","*.foreground:   #919191","*.background:   #000000","*.cursorColor:  #919191","","! black","*.color0:       #303030","*.color8:       #5e5e5e","","! red","*.color1:       #c10023","*.color9:       #ff8781","","! green","*.color2:       #a83334","*.color10:      #ffa095","","! yellow","*.color3:       #b51d2c","*.color11:      #ff948b","","! blue","*.color4:       #8c4b46","*.color12:      #feb2aa","",>11
+|<"! magenta","*.color5:       #7d534f","*.color13:      #ebbbb5","","! cyan","*.color6:       #9a413d","*.color14:      #ffaaa0","","! white","*.color7:       #c6c6c6","*.color15:      #ffffff","",""
+"9	CHAR	0
+	 black
+	*.color0:       #101010
+	*.color8:       #404040
+	
+	! red
+	*.color1:       #e84f4f
+	*.color9:       #d23d3d
+	
+	! green
+	*.color2:       #b8d68c
+	*.color10:      #a0cf5d
+	
+	! yellow
+	*.color3:       #e1aa5d
+	*.color11:      #f39d21
+	
+	! blue
+	*.color4:       #7dc1cf
+	*.color12:      #4e9fb1
+	
+	! magenta
+	*.color5:       #9b64fb
+	*.color13:      #8542ff
+	
+	! cyan
+	*.color6:       #6d878d
+	*.color14:      #42717b
+	
+	! white
+	*.color7:       #dddddd
+	*.color15:      #dddddd
+|3,0,9,0,31,0,1574364490," black","*.color0:       #101010","*.color8:       #404040","","! red","*.color1:       #e84f4f","*.color9:       #d23d3d","","! green","*.color2:       #b8d68c","*.color10:      #a0cf5d","","! yellow","*.color3:       #e1aa5d","*.color11:      #f39d21","","! blue","*.color4:       #7dc1cf","*.color12:      #4e9fb1","","! magenta","*.color5:       #9b64fb","*.color13:      #8542ff","","! cyan","*.color6:       #6d878d",>25
+|<"*.color14:      #42717b","","! white","*.color7:       #dddddd","*.color15:      #dddddd"
+"-	BLOCK	22
+	*.color4:       #195465
+|3,0,36,2,1,22,1574365615,"*.color4:       #195465"
+
+# Marcas en el archivo:
+'0  2  8  ~/.Xresources
+|4,48,2,8,1574443803,"~/.Xresources"
+'1  5  42  ~/.xinitrc
+|4,49,5,42,1574443803,"~/.xinitrc"
+'2  5  13  ~/.xinitrc
+|4,50,5,13,1574443574,"~/.xinitrc"
+'3  219  4  /etc/xdg/compton.conf.pacsave
+|4,51,219,4,1574443332,"/etc/xdg/compton.conf.pacsave"
+'4  33  22  ~/.Xresources
+|4,52,33,22,1574442846,"~/.Xresources"
+'5  33  22  ~/.Xresources
+|4,53,33,22,1574442846,"~/.Xresources"
+'6  6  0  ~/.Xresources
+|4,54,6,0,1574442842,"~/.Xresources"
+'7  6  0  ~/.Xresources
+|4,55,6,0,1574442842,"~/.Xresources"
+'8  6  0  ~/.Xresources
+|4,56,6,0,1574442729,"~/.Xresources"
+'9  6  0  ~/.Xresources
+|4,57,6,0,1574442729,"~/.Xresources"
+
+# Lista de saltos (el más reciente va primero):
+-'  2  8  ~/.Xresources
+|4,39,2,8,1574443803,"~/.Xresources"
+-'  5  42  ~/.xinitrc
+|4,39,5,42,1574443803,"~/.xinitrc"
+-'  5  13  ~/.xinitrc
+|4,39,5,13,1574443574,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1574443561,"~/.xinitrc"
+-'  1  0  ~/.xinitrc
+|4,39,1,0,1574443561,"~/.xinitrc"
+-'  219  4  /etc/xdg/compton.conf.pacsave
+|4,39,219,4,1574443332,"/etc/xdg/compton.conf.pacsave"
+-'  219  4  /etc/xdg/compton.conf.pacsave
+|4,39,219,4,1574443332,"/etc/xdg/compton.conf.pacsave"
+-'  219  4  /etc/xdg/compton.conf.pacsave
+|4,39,219,4,1574443332,"/etc/xdg/compton.conf.pacsave"
+-'  219  4  /etc/xdg/compton.conf.pacsave
+|4,39,219,4,1574443332,"/etc/xdg/compton.conf.pacsave"
+-'  126  0  /etc/xdg/compton.conf.pacsave
+|4,39,126,0,1574443317,"/etc/xdg/compton.conf.pacsave"
+-'  126  0  /etc/xdg/compton.conf.pacsave
+|4,39,126,0,1574443317,"/etc/xdg/compton.conf.pacsave"
+-'  126  0  /etc/xdg/compton.conf.pacsave
+|4,39,126,0,1574443317,"/etc/xdg/compton.conf.pacsave"
+-'  126  0  /etc/xdg/compton.conf.pacsave
+|4,39,126,0,1574443317,"/etc/xdg/compton.conf.pacsave"
+-'  1  0  /etc/xdg/compton.conf.pacsave
+|4,39,1,0,1574443301,"/etc/xdg/compton.conf.pacsave"
+-'  1  0  /etc/xdg/compton.conf.pacsave
+|4,39,1,0,1574443301,"/etc/xdg/compton.conf.pacsave"
+-'  1  0  /etc/xdg/compton.conf.pacsave
+|4,39,1,0,1574443301,"/etc/xdg/compton.conf.pacsave"
+-'  1  0  /etc/xdg/compton.conf.pacsave
+|4,39,1,0,1574443301,"/etc/xdg/compton.conf.pacsave"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442853,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  33  22  ~/.Xresources
+|4,39,33,22,1574442846,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442842,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442809,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  6  0  ~/.Xresources
+|4,39,6,0,1574442729,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574442605,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  31  0  ~/.Xresources
+|4,39,31,0,1574366110,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+-'  27  0  ~/.Xresources
+|4,39,27,0,1574366036,"~/.Xresources"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.xinitrc
+	*	1574443800	0
+	"	5	42
+	^	5	43
+	.	5	42
+	+	5	42
+
+> ~/.Xresources
+	*	1574443703	0
+	"	2	8
+	^	33	23
+	.	33	22
+	+	40	53
+	+	41	25
+	+	42	53
+	+	43	36
+	+	44	67
+	+	47	60
+	+	49	45
+	+	49	54
+	+	49	44
+	+	42	53
+	+	43	36
+	+	41	25
+	+	42	53
+	+	43	36
+	+	44	0
+	+	45	67
+	+	47	60
+	+	49	45
+	+	49	54
+	+	49	45
+	+	47	59
+	+	45	67
+	+	47	60
+	+	49	45
+	+	45	67
+	+	47	59
+	+	49	45
+	+	47	94
+	+	49	0
+	+	48	54
+	+	49	44
+	+	48	54
+	+	49	44
+	+	48	54
+	+	49	44
+	+	48	54
+	+	49	44
+	+	46	51
+	+	47	60
+	+	48	54
+	+	49	1
+	+	50	0
+	+	49	0
+	+	46	67
+	+	43	36
+	+	2	0
+	+	2	9
+	+	2	20
+	+	2	0
+	+	2	22
+	+	2	9
+	+	2	23
+	+	2	0
+	+	40	0
+	+	2	0
+	+	2	23
+	+	2	0
+	+	40	0
+	+	2	9
+	+	37	23
+	+	39	0
+	+	37	23
+	+	24	22
+	+	21	22
+	+	35	0
+	+	35	22
+	+	35	0
+	+	35	22
+	+	36	0
+	+	30	6
+	+	30	22
+	+	34	0
+	+	31	22
+	+	30	0
+	+	34	0
+	+	33	22
+
+> /etc/xdg/compton.conf.pacsave
+	*	1574443328	0
+	"	219	4
+	^	219	5
+	.	219	4
+	+	219	4
+
+> ~/.zshrc
+	*	1574364206	0
+	"	11	11
+	^	11	12
+	.	11	12
+	+	111	0
+	+	106	0
+	+	11	12
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1574364202	0
+	"	2	0
+
+> ~/.zshr
+	*	1574364189	0
+	"	1	0
+
+> ~/.p10k.zsh
+	*	1574362447	0
+	"	307	32
+	^	307	33
+	.	307	32
+	+	307	32
+	+	310	26
+	+	307	32
+
+> ~/.Xresource
+	*	1573440636	0
+	"	1	0

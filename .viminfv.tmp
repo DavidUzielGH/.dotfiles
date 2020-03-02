@@ -1,0 +1,475 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/alias
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:PlugHelp
+|2,0,1575075822,,"PlugHelp"
+:PlugClean
+|2,0,1575075813,,"PlugClean"
+:PlugInstall
+|2,0,1575075785,,"PlugInstall"
+:q
+|2,0,1575075712,,"q"
+:w
+|2,0,1575075482,,"w"
+:source ~/.vimrc
+|2,0,1575075445,,"source ~/.vimrc"
+:q!
+|2,0,1575074465,,"q!"
+:w!
+|2,0,1575074458,,"w!"
+:echo has('pytn') || has('pon3')
+|2,0,1575044895,,"echo has('pytn') || has('pon3')"
+:echo has('python') || has('pyth')
+|2,0,1575044889,,"echo has('python') || has('pyth')"
+:echo has('python') || has('python3')
+|2,0,1575044884,,"echo has('python') || has('python3')"
+:echo has('python')
+|2,0,1575044845,,"echo has('python')"
+:version
+|2,0,1575044595,,"version"
+:filetype detect
+|2,0,1575044535,,"filetype detect"
+:set number
+|2,0,1575044451,,"set number"
+:Q
+|2,0,1575044069,,"Q"
+:set filetype
+|2,0,1575043773,,"set filetype"
+:set filetype html
+|2,0,1575043764,,"set filetype html"
+:W
+|2,0,1574446448,,"W"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/alias
+|2,1,1575075364,47,"alias"
+?/rule
+|2,1,1575074448,47,"rule"
+? @$
+|2,1,1575043508,,"@$"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	mntusb="./~/Projects/Scripts/USB/usbmount.sh"
+|3,0,0,0,1,0,1575043508,"mntusb=\"./~/Projects/Scripts/USB/usbmount.sh\""
+"1	LINE	0
+	*.foreground:   #98d1ce
+|3,0,1,1,1,0,1575075485,"*.foreground:   #98d1ce"
+"-	CHAR	0
+	r
+|3,0,36,0,1,0,1575075471,"r"
+
+# Marcas en el archivo:
+'0  7  0  ~/.vimrc
+|4,48,7,0,1575075882,"~/.vimrc"
+'1  7  6  ~/.vimrc
+|4,49,7,6,1575075803,"~/.vimrc"
+'2  3  18  ~/.Xresources
+|4,50,3,18,1575075712,"~/.Xresources"
+'3  3  0  ~/.Xresources
+|4,51,3,0,1575075705,"~/.Xresources"
+'4  3  17  ~/.Xresources
+|4,52,3,17,1575075428,"~/.Xresources"
+'5  3  17  ~/.Xresources
+|4,53,3,17,1575075428,"~/.Xresources"
+'6  102  24  ~/.zshrc
+|4,54,102,24,1575075385,"~/.zshrc"
+'7  1  0  ~/.vimrc
+|4,55,1,0,1575075355,"~/.vimrc"
+'8  1  0  ~/.vimrc
+|4,56,1,0,1575075355,"~/.vimrc"
+'9  1  0  ~/.vimrc
+|4,57,1,0,1575075355,"~/.vimrc"
+
+# Lista de saltos (el más reciente va primero):
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075882,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075807,"~/.vimrc"
+-'  7  6  ~/.vimrc
+|4,39,7,6,1575075803,"~/.vimrc"
+-'  3  18  ~/.Xresources
+|4,39,3,18,1575075712,"~/.Xresources"
+-'  3  18  ~/.Xresources
+|4,39,3,18,1575075712,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075707,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075707,"~/.Xresources"
+-'  3  0  ~/.Xresources
+|4,39,3,0,1575075705,"~/.Xresources"
+-'  3  0  ~/.Xresources
+|4,39,3,0,1575075705,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075430,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075430,"~/.Xresources"
+-'  3  17  ~/.Xresources
+|4,39,3,17,1575075428,"~/.Xresources"
+-'  3  17  ~/.Xresources
+|4,39,3,17,1575075428,"~/.Xresources"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075391,"~/.vimrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  102  24  ~/.zshrc
+|4,39,102,24,1575075385,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1575075364,"~/.zshrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075355,"~/.vimrc"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075308,"~/.Xresources"
+-'  1  0  ~/.Xresources
+|4,39,1,0,1575075308,"~/.Xresources"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  7  0  ~/.vimrc
+|4,39,7,0,1575075303,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075302,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  7  14  ~/.vimrc
+|4,39,7,14,1575075243,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1575075154,"~/.vimrc"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.vimrc
+	*	1575075826	0
+	"	7	0
+	^	7	15
+	.	7	14
+	+	1	33
+	+	5	0
+	+	2	18
+	+	7	14
+
+> ~/.Xresources
+	*	1575075712	0
+	"	3	18
+	^	3	1
+	.	3	0
+	+	3	0
+
+> ~/.zshrc
+	*	1575075385	0
+	"	102	24
+	^	102	25
+	.	102	24
+	+	100	19
+	+	101	22
+	+	103	0
+	+	108	68
+	+	113	8
+	+	108	23
+	+	113	0
+	+	116	0
+	+	113	54
+	+	116	0
+	+	107	28
+	+	108	36
+	+	113	19
+	+	108	42
+	+	113	26
+	+	108	35
+	+	113	66
+	+	114	25
+	+	113	66
+	+	108	33
+	+	113	17
+	+	115	24
+	+	108	17
+	+	112	0
+	+	108	22
+	+	109	19
+	+	111	0
+	+	110	24
+	+	111	0
+	+	106	20
+	+	101	19
+	+	102	24
+
+> /tmp/tutor7QfHLr
+	*	1575075050	0
+	"	43	0
+
+> ~/.config/compton.conf
+	*	1575074488	0
+	"	1	0
+	^	219	6
+	.	219	5
+	+	219	5
+
+> ~/trash.js
+	*	1575051608	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	2	0
+	+	2	3
+	+	2	1
+	+	1	11
+	+	2	0
+	+	4	16
+	+	5	4
+	+	5	5
+
+> ~/h.html
+	*	1575046650	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/Projects/Web/Practice1/index.html
+	*	1575044535	0
+	"	1	1
+	^	1	0
+	.	1	1
+	+	1	0
+	+	1	6
+	+	2	6
+	+	1	0
+	+	2	0
+	+	1	1
+
+> /usr/share/vim/vimfiles/archlinux.vim
+	*	1575044048	0
+	"	31	0
+
+> ~/Projects/Web/index.html
+	*	1575043825	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	5
+	+	1	6
+	+	3	0
+	+	2	6
+	+	3	0
+	+	2	5
+	+	3	0
+
+> ~/Downloads/vim
+	*	1574964155	0
+	"	1	0
+
+> ~/Downloads/family/Users/Family/Documents/credentials.txt
+	*	1574916351	0
+	"	1	0
+
+> /etc/hostname
+	*	1574914877	0
+	"	1	2
+	^	1	3
+	.	1	3
+	+	1	3
+
+> ~/Projects/Scripts/USB/usbumount.sh
+	*	1574722432	0
+	"	5	2
+	^	4	4
+
+> /usr/bin/dumpcap
+	*	1574719005	0
+	"	1	0
+
+> ~/Projects/Scripts/USB/usbmount.sh
+	*	1574717976	0
+	"	14	1
+
+> ~/.zshr
+	*	1574717819	0
+	"	1	0
+
+> ~/Downloads/nu
+	*	1574711994	0
+	"	3	150
+	^	3	151
+	.	9	159
+	+	9	159
+
+> ~/Downloads/bs
+	*	1574711796	0
+	"	567	0
+
+> ~/.config/zathura/zathurarc
+	*	1574446467	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+	a	1	0

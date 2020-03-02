@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/david/.vim'
+let g:netrw_dirhist_9='/home/david/Projects/Seminario/IF-ANIDADOS-3-ASCENDENTE'
+let g:netrw_dirhist_8='/home/david'
+let g:netrw_dirhist_7='/home/david/.vim'
+let g:netrw_dirhist_6='/home/david/Documentos/Notes/.lifegoals'
+let g:netrw_dirhist_5='/home/david/Projects/Practice1'
+let g:netrw_dirhist_4='/home/david/.vim'
+let g:netrw_dirhist_3='/home/david/.oh-my-zsh'
+let g:netrw_dirhist_2='/home/david'
+let g:netrw_dirhist_1='/home/david/.config/i3blocks/wifi'

@@ -1,0 +1,62 @@
+!! Colorscheme
+! special
+*.foreground:   #D6F9F8
+*.background:   #251F2C
+*.cursorColor:  #D7FFFD
+
+! black
+*.color0:       #0a0f14
+*.color8:       #10151b
+
+! red
+*.color1:       #EE0000
+*.color9:       #FF4848
+
+! green
+*.color2:       #1CFA56
+*.color10:      #1DEFA3
+
+! yellow
+*.color3:       #edb54b
+*.color11:      #FFF741
+
+! blue
+*.color4:       #FF410A
+*.color12:      #229bc7
+
+! magenta
+*.color5:       #FF3B7E
+*.color13:      #FF6969
+
+! cyan
+*.color6:       #3398FF
+*.color14:      #4F6895
+
+! white
+*.color7:       #DCE2FF
+*.color15:      #FFE0DE
+
+URxvt.buffered: 	false
+urxvt*font:		xft:Source Code Pro for Powerline:size=18:minspace=False:antialias=true, \
+			xft:DejaVu Sans:size=16, \
+			xft:SourceCodePro+Powerline+Awesome Regular:size=16, \
+			xft:SauceCodePro Nerd Font:size=15
+
+urxvt*boldFont:   	
+			xft:SauceCodePro Nerd Font Mono Bold:bold:size=17:minspace=false, \
+		        xft:Source Code Pro for Powerline Bold:bold:size=17:minspace=False:antialias=true, \
+			xft:Source Code Pro Bold:bold:minspace=False:size=17, \
+URxvt*letterSpace:	0
+URxvt.transparent:	false
+URxvt.shading:		7
+URxvt.scrollBar:	false
+URxvt.scrollBar_right:	false
+URxvt.perl-ext-common:
+URxvt.meta8:		true
+!! URxvt Appearance
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+!URxvt.saveline: 2048
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: false
