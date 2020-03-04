@@ -1,5 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+bindkey -v
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/david/.oh-my-zsh"
@@ -97,21 +98,49 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# GIT
+
+alias master="git checkout master"
+alias corner="git checkout david\'s_corner"
+alias testing="git checkout testing"
+#QOL
+#alias please="sudo"
+alias blu="bluetoothctl"
 alias v="vim"
 alias sv="sudo vim"
-alias zshrc="vim ~/.zshrc"
+alias tpl="~/.texplates"
+alias zrc="vim ~/.zshrc"
+alias zarc="vim ~/.config/zathura/zathurarc"
 alias xres="vim ~/.Xresources"
-alias vimrc="vim ~/.vimrc"
+alias vrc="vim ~/.vimrc"
+alias vsn="cd ~/.vim/UltiSnips"
+alias p="pacman"
 alias sp="sudo pacman"
 alias ddo="~/Downloads"
-alias dgi="~/GIt"
-alias dim="~/Imagenes"
-alias dsc="~/Projects/Scripts"
+alias dpi="~/Pictures"
+alias pwa="~/Pictures/Wallpapers"
+alias pis="~/Pictures/Screenshots"
+alias psc="~/Projects/.Scripts"
 alias dpr="~/Projects"
-alias dmu="~/Musica"
-alias ddc="~/Documentos"
-alias dusb="/mnt"
-alias mntusb="zsh /home/david/Projects/Scripts/USB/usbmount.sh"
-alias umntusb="zsh /home/david/Projects/Scripts/USB/usbumount.sh"
+alias pse="~/Projects/Seminario"
+alias pfi="~/Projects/Filosofia"
+alias pro="~/Projects/Programacion"
+alias prk="~/Projects/kobra"
+alias dmu="~/Music"
+alias doc="~/Documents"
+alias dnt="~/Documents/Notes"
+alias cupr="~/Documents/CUCEI/Programación"
+alias cumd="~/Documents/CUCEI/MD"
+alias cu="~/Documents/CUCEI"
+alias dmn="/mnt"
+alias dga="~/Games"
+alias usb1="/mnt/usb1/"
+alias usb2="/mnt/usb2/"
+alias usb3="/mnt/usb3/"
+alias mntusb="zsh /home/david/Projects/.Scripts/USB/usbmount.sh"
+alias umntusb="zsh /home/david/Projects/.Scripts/USB/usbumount.sh"
 alias schut="shutdown now"
-
+alias def="zsh /home/david/Projects/.Scripts/definition.sh"
+alias newc="zsh /home/david/Projects/.Scripts/links/newc"
+alias newpy="zsh /home/david/Projects/.Scripts/links/newpy"
